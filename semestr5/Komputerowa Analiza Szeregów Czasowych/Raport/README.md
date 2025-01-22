@@ -6,7 +6,7 @@ Dane wykorzystane w projekcie zostały pobrane z platformy Kaggle: [Seoul Histor
 
 ### ZAKRES ZMIENNYCH:
 
-W projekcie nie będziemy rozpatrywać wszystkich dostępnych zmiennych, a skupimy się na dwóch najważniejszych: prędkości wiatru (windspeed) oraz dacie pomiaru (datetime). Pozostałe zmienne, takie jak temperatura, wilgotność, opady czy ciśnienie, mogą być interesujące w kontekście szerszej analizy, ale nie będą przedmiotem tej pracy.
+W projekcie nie będziemy rozpatrywać wszystkich dostępnych zmiennych, a skupimy się na: prędkości wiatru (windspeed) oraz dacie pomiaru (datetime). Pozostałe zmienne, takie jak temperatura, wilgotność, opady czy ciśnienie, mogą być interesujące w kontekście szerszej analizy, ale nie będą przedmiotem tej pracy.
 
 - datetime: Data pomiarów (od 2022-01-01 do 2024-01-01)
 - windspeed: Średnia prędkość wiatru (km/h).
