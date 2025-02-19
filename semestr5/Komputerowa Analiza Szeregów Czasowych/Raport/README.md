@@ -11,3 +11,5 @@ W projekcie nie będziemy rozpatrywać wszystkich dostępnych zmiennych, a skupi
 - time: Data pomiarów (od 2013-03-01 do 2023-03-01)
 - tavg: Średnia temperatura powietrza ($^\circ C$).
 
+### WSPÓŁAUTORZY
+Projekt został zrealizowany we współpracy z: [Magdalena Sudół](https://github.com/MagdalenaSudol)
