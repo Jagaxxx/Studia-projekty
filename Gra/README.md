@@ -1,4 +1,4 @@
-# GRY
+# GRY 2D
 W tym folderze znajdują się kody źródłowe oraz pliki (m.in. muzyka, postacie, tła) do różnych gier stworzonych w Pythonie. Każda z gier jest niezależnym projektem.
 
 ## Wymagania
